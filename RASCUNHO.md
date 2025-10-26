@@ -144,8 +144,7 @@ Para organizar múltiplos dados de forma estruturada:
 **Exemplo:** `minha_tupla = (1, 2, 3)`
 
 - **Dicionário** (`dict`): Coleção de pares **chave: valor**. Ótimo para mapeamentos.  
-
-Exemplo: `pessoa = {"nome": "Ana", "idade": 25}`
+**Exemplo:** `pessoa = {"nome": "Ana", "idade": 25}`
 
 
 
