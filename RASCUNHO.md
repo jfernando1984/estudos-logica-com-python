@@ -78,6 +78,18 @@ Essenciais para o fluxo de execução do programa.
 
 ### Operadores de Comparação:
 
+<img width="295" height="243" alt="image" src="https://github.com/user-attachments/assets/4ac23dff-fb96-4a8f-83a5-2739a18a796a" />
+
+### Estruturas Condicionais em Python (if, elif, else):
+
+idade = 18
+
+if idade >= 18:  
+    print("Pode tirar a carteira de motorista.")  
+elif idade >= 16:  
+    print("Pode votar, mas não dirigir.")  
+else:  
+    print("É menor de idade.")  
 
 
 
