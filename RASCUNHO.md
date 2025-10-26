@@ -97,6 +97,14 @@ else:
 - or (OU lógico): É True se pelo menos uma condição for True.
 - not (NÃO lógico): Inverte o valor lógico.
 
+Exemplo:
+
+tem_dinheiro = True   
+esta_chovendo = False   
+
+if tem_dinheiro and not esta_chovendo:   
+    print("Vou ao cinema.") # Só executa se tiver dinheiro E não estiver chovendo   
+
 
 
 
