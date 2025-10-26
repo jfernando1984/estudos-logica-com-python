@@ -3,9 +3,9 @@
 
 A Lógica de Programação é a base fundamental para qualquer programador. Ela consiste na arte de estruturar o pensamento de forma sequencial, clara e eficiente para resolver problemas de maneira que um computador consiga executar.
 
-Parte 1: A Base - Algoritmo e Lógica
+# Parte 1: A Base - Algoritmo e Lógica
 
-# 1. O que é Algoritmo?
+## 1. O que é Algoritmo?
 
 Um Algoritmo é um conjunto finito e ordenado de passos não ambíguos (claros) que visam resolver um problema ou executar uma tarefa.
 
@@ -20,7 +20,7 @@ Exemplo Clássico (Algoritmo do Café):
 
 Para a programação, o algoritmo precisa ser traduzido para uma linguagem que o computador entenda.
 
-# 2. Representação de Algoritmos
+## 2. Representação de Algoritmos
 
 Antes de codificar em Python, é crucial planejar o algoritmo usando uma das seguintes formas:
 
@@ -31,3 +31,8 @@ Antes de codificar em Python, é crucial planejar o algoritmo usando uma das seg
 Exemplo em Pseudocódigo (Calcular média.)
 
 <img width="302" height="239" alt="image" src="https://github.com/user-attachments/assets/4cec6e92-fb22-4e62-a12d-9a6d184b9972" />
+
+## 3. A Lógica em Ação: Conceitos Fundamentais
+
+   
+A lógica é implementada na programação através de conceitos universais, que em Python são traduzidos em sintaxes específicas.
