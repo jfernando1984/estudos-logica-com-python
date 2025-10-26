@@ -80,7 +80,7 @@ Essenciais para o fluxo de execução do programa.
 
 <img width="295" height="243" alt="image" src="https://github.com/user-attachments/assets/4ac23dff-fb96-4a8f-83a5-2739a18a796a" />
 
-### Estruturas Condicionais em Python (if, elif, else):
+**Estruturas Condicionais** em Python (`if`, `elif`, `else`):
 
 idade = 18
 
@@ -105,6 +105,11 @@ esta_chovendo = False
 if tem_dinheiro and not esta_chovendo:   
     print("Vou ao cinema.") # Só executa se tiver dinheiro E não estiver chovendo   
 
+## 4. Estruturas de Repetição (Laços/Loops)
+   
+Usadas quando um bloco de código precisa ser executado várias vezes.
 
+A. `for` (Repetição com Contador Fixo)
+Ideal para percorrer uma sequência ou repetir um número exato de vezes.
 
 
