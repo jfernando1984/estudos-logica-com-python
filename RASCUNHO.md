@@ -82,14 +82,7 @@ Essenciais para o fluxo de execução do programa.
 
 **Estruturas Condicionais** em Python (`if`, `elif`, `else`):
 
-idade = 18
-
-if idade >= 18:  
-    print("Pode tirar a carteira de motorista.")  
-elif idade >= 16:  
-    print("Pode votar, mas não dirigir.")  
-else:  
-    print("É menor de idade.")  
+<img width="418" height="182" alt="image" src="https://github.com/user-attachments/assets/5bc89152-63d3-4185-844f-b7829248100b" />
 
 ### Operadores Lógicos (Combinação de Condições):
 
@@ -99,11 +92,8 @@ else:
 
 Exemplo:
 
-tem_dinheiro = True   
-esta_chovendo = False   
+<img width="705" height="118" alt="image" src="https://github.com/user-attachments/assets/858e47ff-deb4-4f82-8f2a-dd1a2e28b466" />
 
-if tem_dinheiro and not esta_chovendo:   
-    print("Vou ao cinema.") # Só executa se tiver dinheiro E não estiver chovendo   
 
 ## 4. Estruturas de Repetição (Laços/Loops)
    
