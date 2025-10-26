@@ -163,7 +163,14 @@ quadrado_de_5 = calcular_quadrado(valor)
 print(f"O quadrado de {valor} é {quadrado_de_5}")
 
 
+# Conclusão: A Jornada do Algoritmo para o Código
 
+Para dominar a lógica com Python, siga este ciclo:
+
+1. **Entenda o Problema:** O que você quer que o programa faça?
+2. **Desenhe o Algoritmo:** Esboce o passo a passo em Pseudocódigo ou Fluxograma.
+3. **Traduza para Python:** Implemente as **Variáveis**, **Condicionais** (`if`/`else`) e Laços (`for`/`while`) definidos no seu algoritmo usando a sintaxe correta do Python.
+4. **Teste e Refine:** Execute o código com diferentes entradas para garantir que a lógica está correta em todos os cenários.
 
 
 
