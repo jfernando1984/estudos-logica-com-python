@@ -36,3 +36,16 @@ Exemplo em Pseudocódigo (Calcular média.)
 
    
 A lógica é implementada na programação através de conceitos universais, que em Python são traduzidos em sintaxes específicas.
+
+# Parte 2: Fundamentos da Programação em Python
+
+Vamos traduzir os conceitos lógicos para a sintaxe do Python.
+
+## 1. Variáveis e Tipos de Dados.
+
+Uma variável é um "endereço na memória" para guardar um valor. Python é dinamicamente tipado.
+
+<img width="693" height="231" alt="image" src="https://github.com/user-attachments/assets/d86295d6-3ad4-402f-a8f5-72cdcaa6e469" />
+
+
+
