@@ -103,25 +103,15 @@ Usadas quando um bloco de código precisa ser executado várias vezes.
 
 Ideal para percorrer uma sequência ou repetir um número exato de vezes.
 
-#Imprime números de 0 a 4  
-for i in range(5):  
-    print(f"Contagem: {i}")
+<img width="322" height="180" alt="image" src="https://github.com/user-attachments/assets/2a306964-c62d-4dd9-8ef6-fba06657d095" />
 
-#Percorrendo elementos de uma lista
-frutas = ["maçã", "banana", "uva"]  
-for fruta in frutas:  
-    print(f"Eu gosto de {fruta}")  
 
 **B.** `while` **(Repetição com Condição)**
 
 Ideal para repetir um bloco de código enquanto uma condição for verdadeira. Atenção: A condição deve se tornar falsa em algum momento para evitar loops infinitos.
 
-contador = 0  
-while contador < 3:  
-   print(f"O contador é {contador}")  
-   contador = contador + 1 # Incremento crucial para parar o loop  
+<img width="564" height="137" alt="image" src="https://github.com/user-attachments/assets/6c4a8489-ea87-40e6-b72a-7d618114a151" />
 
-print("Loop finalizado.")
 
 ## 5. Estruturas de Dados (Coleções)
    
