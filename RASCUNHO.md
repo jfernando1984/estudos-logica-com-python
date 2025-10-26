@@ -62,5 +62,16 @@ nota1 = float(nota1_str) # Conversão de string para float
 print("Olá,", nome)  
 print(f"Sua nota é: {nota1}") # Usando f-string  
 
+## 2. Expressões e Operadores
+
+Expressões são combinações de valores, variáveis e operadores que resultam em um valor.
+
+### Operadores Aritméticos em Python:
+
+<img width="457" height="275" alt="image" src="https://github.com/user-attachments/assets/e64ef7c0-6513-4e55-baca-0ac713af1cd0" />
+
+
+
+
 
 
