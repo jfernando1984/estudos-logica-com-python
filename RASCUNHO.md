@@ -128,8 +128,8 @@ Ideal para repetir um bloco de código enquanto uma condição for verdadeira. A
 
 contador = 0  
 while contador < 3:  
-    print(f"O contador é {contador}")  
-    contador = contador + 1 # Incremento crucial para parar o loop  
+   print(f"O contador é {contador}")  
+   contador = contador + 1 # Incremento crucial para parar o loop  
 
 print("Loop finalizado.")
 
