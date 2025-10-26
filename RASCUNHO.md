@@ -70,6 +70,13 @@ Expressões são combinações de valores, variáveis e operadores que resultam 
 
 <img width="457" height="275" alt="image" src="https://github.com/user-attachments/assets/e64ef7c0-6513-4e55-baca-0ac713af1cd0" />
 
+Precedência: Segue a matemática padrão (Potências $\rightarrow$ Mult/Div/Mód $\rightarrow$ Soma/Subtração).
+
+## 3. Estruturas de Controle (Tomada de Decisão)
+
+Essenciais para o fluxo de execução do programa.
+
+### Operadores de Comparação:
 
 
 
