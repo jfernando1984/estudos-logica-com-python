@@ -137,13 +137,13 @@ print("Loop finalizado.")
    
 Para organizar múltiplos dados de forma estruturada:
 
-- **Lista** (`list`): Coleção **ordenada** e **mutável** (pode ser alterada).
+- **Lista** (`list`): Coleção **ordenada** e **mutável** (pode ser alterada).  
 **Exemplo:** `minha_lista = [10, 20, 30, "a"]`
 
-- Tupla (`tuple`): Coleção ordenada e imutável (não pode ser alterada após criada).
+- Tupla (`tuple`): Coleção ordenada e imutável (não pode ser alterada após criada).  
 **Exemplo:** `minha_tupla = (1, 2, 3)`
 
-- **Dicionário** (`dict`): Coleção de pares **chave: valor**. Ótimo para mapeamentos.
+- **Dicionário** (`dict`): Coleção de pares **chave: valor**. Ótimo para mapeamentos.  
 
 Exemplo: `pessoa = {"nome": "Ana", "idade": 25}`
 
