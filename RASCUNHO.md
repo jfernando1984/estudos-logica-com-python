@@ -24,7 +24,7 @@ Para a programação, o algoritmo precisa ser traduzido para uma linguagem que o
 
 Antes de codificar em Python, é crucial planejar o algoritmo usando uma das seguintes formas:
 
-- Linguagem Natural (Descrição Narrativa): Usar o português (ou outra língua) de forma estruturada. Bom para o planejamento inicial.
+- #Linguagem Natural# (Descrição Narrativa): Usar o português (ou outra língua) de forma estruturada. Bom para o planejamento inicial.
 - Fluxograma: Uma representação gráfica padronizada usando símbolos para mostrar o fluxo de controle.
 - Pseudocódigo (Portugol): Uma representação textual intermediária, que se assemelha a uma linguagem de programação, mas usa termos da língua natural. É o mais usado para estruturar a lógica antes da codificação final.
 
