@@ -47,5 +47,20 @@ Uma variável é um "endereço na memória" para guardar um valor. Python é din
 
 <img width="693" height="231" alt="image" src="https://github.com/user-attachments/assets/d86295d6-3ad4-402f-a8f5-72cdcaa6e469" />
 
+### Atribuição e Entrada de Dados em Phyton:
+
+#Atribuição (usamos = )
+altura = 1.75  # float
+nome = "João"  # str
+
+#Entrada de dados (usamos input())
+#O input() sempre retorna uma string, precisamos converter (casting) para número se for o caso
+nota1_str = input("Digite a primeira nota: ")
+nota1 = float(nota1_str) # Conversão de string para float
+
+#Saída de dados (usamos print())
+print("Olá,", nome)
+print(f"Sua nota é: {nota1}") # Usando f-string
+
 
 
