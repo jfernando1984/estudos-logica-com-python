@@ -122,4 +122,20 @@ frutas = ["maçã", "banana", "uva"]
 for fruta in frutas:  
     print(f"Eu gosto de {fruta}")  
 
+**B.** `while` **(Repetição com Condição)**
+
+Ideal para repetir um bloco de código enquanto uma condição for verdadeira. Atenção: A condição deve se tornar falsa em algum momento para evitar loops infinitos.
+
+contador = 0  
+while contador < 3:  
+    print(f"O contador é {contador}")  
+    contador = contador + 1 # Incremento crucial para parar o loop  
+
+print("Loop finalizado.")
+
+
+
+
+
+
 
