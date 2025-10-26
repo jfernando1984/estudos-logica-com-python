@@ -146,6 +146,22 @@ Para organizar múltiplos dados de forma estruturada:
 - **Dicionário** (`dict`): Coleção de pares **chave: valor**. Ótimo para mapeamentos.  
 **Exemplo:** `pessoa = {"nome": "Ana", "idade": 25}`
 
+## 6. Funções (Modularização)
+
+Funções são blocos de código reutilizáveis. Elas ajudam a dividir um algoritmo grande em partes menores e gerenciáveis.
+
+#Definição da função (usando a palavra-chave def)  
+def calcular_quadrado(numero):  
+    """Esta função calcula o quadrado de um número."""  
+    resultado = numero ** 2  
+    return resultado # Devolve o resultado para quem chamou  
+
+#Chamada da função
+valor = 5  
+quadrado_de_5 = calcular_quadrado(valor)  
+
+print(f"O quadrado de {valor} é {quadrado_de_5}")
+
 
 
 
