@@ -109,7 +109,16 @@ if tem_dinheiro and not esta_chovendo:
    
 Usadas quando um bloco de código precisa ser executado várias vezes.
 
-A. `for` (Repetição com Contador Fixo)
+A. `for` (Repetição com Contador Fixo)   
 Ideal para percorrer uma sequência ou repetir um número exato de vezes.
+
+#Imprime números de 0 a 4  
+for i in range(5):  
+    print(f"Contagem: {i}")
+
+#Percorrendo elementos de uma lista
+frutas = ["maçã", "banana", "uva"]  
+for fruta in frutas:  
+    print(f"Eu gosto de {fruta}")  
 
 
