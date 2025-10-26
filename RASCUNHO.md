@@ -60,7 +60,7 @@ nota1 = float(nota1_str) # Conversão de string para float
 
 #Saída de dados (usamos print())  
 print("Olá,", nome)  
-print(f"Sua nota é: {nota1}") # Usando f-string  
+print(f"Sua nota é: {nota1}") # Usando f-string    
 
 ## 2. Expressões e Operadores
 
@@ -90,6 +90,12 @@ elif idade >= 16:
     print("Pode votar, mas não dirigir.")  
 else:  
     print("É menor de idade.")  
+
+### Operadores Lógicos (Combinação de Condições):
+
+- and (E lógico): Só é True se ambas as condições forem True.
+- or (OU lógico): É True se pelo menos uma condição for True.
+- not (NÃO lógico): Inverte o valor lógico.
 
 
 
